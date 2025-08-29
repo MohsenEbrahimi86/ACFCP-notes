@@ -18,4 +18,9 @@ DNS Root name server → DNS TLD name server → Authoritative name server
 
 DNS Forwader
 
-BIND
+[BIND](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/BIND.md)
+
+DNS Zone Types:
+
+- Forward Lookup(Name → IP)
+- Reverse Lookup(IP → Name)
