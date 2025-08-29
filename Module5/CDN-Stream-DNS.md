@@ -4,7 +4,7 @@ Edge services globally lives in the entrance of the organization network like CA
 
 ### Edge Services
 
-#### - DNS(**D**omain **N**ame **S**ystem)
+#### - [DNS(**D**omain **N**ame **S**ystem)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/What-is-DNS.md)
 
 #### - Proxies
 
