@@ -9,3 +9,5 @@ Edge services globally lives in the entrance of the organization network like CA
 #### - Proxies
 
 #### - CDN(**C**ontent **D**istribution **N**etwork)
+
+**W**indows **I**nternet **N**ame **S**erver(WINS)
