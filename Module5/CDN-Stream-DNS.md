@@ -11,3 +11,10 @@ Edge services globally lives in the entrance of the organization network like CA
 #### - CDN(**C**ontent **D**istribution **N**etwork)
 
 [**W**indows **I**nternet **N**ame **S**erver(WINS)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/What-is-WINS.md)
+
+DNS Root name server → DNS TLD name server → Authoritative name server
+
+[Recursive Resolver or DNS recursor](https://github.
+com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/What-is-WINS.md)
+
+DNS Forwader
