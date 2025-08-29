@@ -32,10 +32,6 @@ You can find it [here](https://academy.arvancloud.ir/courses/foundational-cloud-
 
 ## Module 5: [CDN/Stream/DNS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/CDN-Stream-DNS.md)
 
-### Lesson 5.1: Topic A
-
-### Lesson 5.2: Topic B
-
 ## Module 6: Network
 
 ### Lesson 6.1: Topic A
