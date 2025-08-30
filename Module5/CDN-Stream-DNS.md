@@ -42,3 +42,11 @@ DNS Zone Types:
 [Dynamic DNS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Dynamic-DNS.md)
 
 [DNSSec](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNSSEC.md)
+
+Primary DNS Server
+
+Secondary DNS Server
+
+[Hint]()
+
+Stub
