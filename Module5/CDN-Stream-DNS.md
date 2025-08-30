@@ -29,6 +29,6 @@ DNS Zone Types:
 
 [A Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-A-record.md)
 
-[C Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-CNAME-record.md) Alternate name of a server
+[CNAME Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-CNAME-record.md) Alternate name of a server
 
-Dynamic DNS
+[Dynamic DNS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Dynamic-DNS.md)
