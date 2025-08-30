@@ -24,3 +24,6 @@ DNS Zone Types:
 
 - Forward Lookup(Name → IP)
 - Reverse Lookup(IP → Name)
+
+Zone Files
+A Record
