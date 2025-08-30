@@ -32,9 +32,11 @@ DNS Zone Types:
 [CNAME Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-CNAME-record.md) Alternate name of a server
 
 [MX Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-MX-record.md) Mail Exchange Record
+
 [AAAA Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-AAAA-record.md) IPv6 Record
 
 [NS Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-NS-record.md) Authoritative DNS Server
-[PTR Record]()
+
+[PTR Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-PTR-record.md) Reverse Lookup
 
 [Dynamic DNS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Dynamic-DNS.md)
