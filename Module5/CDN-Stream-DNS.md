@@ -40,3 +40,5 @@ DNS Zone Types:
 [PTR Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-PTR-record.md) Reverse Lookup
 
 [Dynamic DNS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Dynamic-DNS.md)
+
+[DNSSec](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNSSEC.md)
