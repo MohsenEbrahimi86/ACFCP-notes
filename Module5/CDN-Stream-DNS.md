@@ -25,5 +25,7 @@ DNS Zone Types:
 - Forward Lookup(Name → IP)
 - Reverse Lookup(IP → Name)
 
-Zone Files
-A Record
+[Zone Files](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-Zone-Files.md)
+[A Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-A-record.md)
+
+Dynamic DNS
