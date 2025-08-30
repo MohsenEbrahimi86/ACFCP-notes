@@ -34,7 +34,7 @@ DNS Zone Types:
 [MX Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-MX-record.md) Mail Exchange Record
 [AAAA Record]() IPv6 Record
 
-[NS Record]()
+[NS Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-NS-record.md) Authoritative DNS Server
 [PTR Record]()
 
 [Dynamic DNS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Dynamic-DNS.md)
