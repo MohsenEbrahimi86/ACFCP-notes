@@ -27,8 +27,14 @@ DNS Zone Types:
 
 [Zone Files](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-Zone-Files.md)
 
-[A Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-A-record.md)
+[A Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-A-record.md) IPv4 Record
 
 [CNAME Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-CNAME-record.md) Alternate name of a server
+
+[MX Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-MX-record.md) Mail Exchange Record
+[AAAA Record]() IPv6 Record
+
+[NS Record]()
+[PTR Record]()
 
 [Dynamic DNS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Dynamic-DNS.md)
