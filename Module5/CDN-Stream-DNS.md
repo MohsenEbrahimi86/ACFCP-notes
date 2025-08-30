@@ -26,6 +26,9 @@ DNS Zone Types:
 - Reverse Lookup(IP → Name)
 
 [Zone Files](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-Zone-Files.md)
+
 [A Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-A-record.md)
+
+[C Record](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-CNAME-record.md) Alternate name of a server
 
 Dynamic DNS
