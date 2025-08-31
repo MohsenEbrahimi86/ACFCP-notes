@@ -99,8 +99,19 @@ Streaming Protocols:
 
 - [MPEG-Dash](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Streaming-MPEG-Dash.md) (Standard)
 - [HLS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Streaming-HLS.md)
-- [CMAF]()
+- [CMAF](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Streaming-CMAF.md)
 
 [Adaptive Bitrate Streaming]()
 
 [Video Conference vs Live Streaming]()
+
+Live Streaming Processes:
+
+- Video Capture
+- Segmentation
+- Compression
+- Encoding
+- CDN Distribution
+- CDN Caching
+- Decoding
+- Video Playback
