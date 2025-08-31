@@ -88,3 +88,14 @@ Can be content switch
 [**D**istributed **D**enail **o**f Service (DDoS)]
 
 [BGP](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/BGP.md)
+
+---
+
+# Stream
+
+[Streaming] vs Downloading
+
+Streaming Protocols:
+
+- [MPEG-Dash]() (Standard)
+- [HLS]
