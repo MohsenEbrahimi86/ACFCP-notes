@@ -10,6 +10,10 @@ Edge services globally lives in the entrance of the organization network like CA
 
 #### - CDN(**C**ontent **D**istribution **N**etwork)
 
+---
+
+# DNS
+
 [**W**indows **I**nternet **N**ame **S**erver(WINS)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/WINS.md) Legacy Service
 
 DNS Root name server → DNS TLD name server → Authoritative name server
@@ -59,3 +63,15 @@ Load Balancing DNS Serving requests with:
 [AnyCast](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-AnyCast.md)
 
 [MultiCast](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-Multicast.md) or mDNS
+
+---
+
+# Proxy
+
+[Forward Proxy](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Forward-Proxy.md)
+
+Can be content firewal
+
+Can be content switch
+
+[Reverse Proxy]()
