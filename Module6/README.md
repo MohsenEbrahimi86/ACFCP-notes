@@ -42,3 +42,10 @@ Over transport layer is all about application.
 - [Router](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Router.md)
 
 ### Layer 3: Network
+
+Grouping Computers for
+
+- Controlling Traffic
+- Improving Security
+- Acheiving Isolation Benefits
+- Hierarchical Management
