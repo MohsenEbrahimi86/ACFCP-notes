@@ -14,9 +14,9 @@ You can find it [here](https://academy.arvancloud.ir/courses/foundational-cloud-
 
 ## Module 4: IaaS/CaaS/PaaS
 
-## Module 5: [CDN/Stream/DNS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/CDN-Stream-DNS.md)
+## Module 5: [CDN/Stream/DNS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/README.md)
 
-## Module 6: Network
+## Module 6: [Network](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/README.md)
 
 ## Module 7: Storage
 
