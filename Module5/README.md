@@ -98,6 +98,9 @@ Can be content switch
 Streaming Protocols:
 
 - [MPEG-Dash](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Streaming-MPEG-Dash.md) (Standard)
-- [HLS]()
+- [HLS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Streaming-HLS.md)
+- [CMAF]()
 
 [Adaptive Bitrate Streaming]()
+
+[Video Conference vs Live Streaming]()
