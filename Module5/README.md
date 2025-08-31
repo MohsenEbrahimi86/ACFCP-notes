@@ -1,6 +1,6 @@
 # Edge Services
 
-Edge services globally lives in the entrance of the organization network like CANs.
+Edge services globally lives in the entrance of the organization network like CANs(Campus Area Network).
 
 Edge Services can be:
 
