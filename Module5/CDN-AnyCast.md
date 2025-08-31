@@ -117,5 +117,3 @@ Behind the scenes:
 It's the secret sauce behind many high-performance internet services — especially **DNS**, **CDNs**, and **cloud infrastructure**.
 
 ---
-
-Would you like a **diagram**, a **simulation idea in Python**, or guidance on how to **detect if an IP uses anycast**?
