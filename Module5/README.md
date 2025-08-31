@@ -1,5 +1,3 @@
-Campus Area Network:
-
 Edge services globally lives in the entrance of the organization network like CANs.
 
 ### Edge Services
