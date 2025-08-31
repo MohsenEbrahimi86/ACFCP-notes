@@ -10,7 +10,7 @@ Edge services globally lives in the entrance of the organization network like CA
 
 #### - CDN(**C**ontent **D**istribution **N**etwork)
 
-[**W**indows **I**nternet **N**ame **S**erver(WINS)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/WINS.md)
+[**W**indows **I**nternet **N**ame **S**erver(WINS)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/WINS.md) Legacy Service
 
 DNS Root name server → DNS TLD name server → Authoritative name server
 
@@ -43,10 +43,19 @@ DNS Zone Types:
 
 [DNSSec](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNSSEC.md)
 
-Primary DNS Server
+Primary DNS Server(Read and Write DNS records)
 
-Secondary DNS Server
+Secondary DNS Server(For Fault Tolerance and Load Balance) Mostly Read-only
 
-[Hint]()
+[Hint](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-Hint.md)
 
-Stub
+Load Balancing DNS Serving requests with:
+
+- Round-Robin Algorithm
+- Geo-Location based Algorithm
+
+GeoCast
+
+MultiCast
+
+AnyCast
