@@ -101,7 +101,7 @@ Streaming Protocols:
 - [HLS](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Streaming-HLS.md)
 - [CMAF](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Streaming-CMAF.md)
 
-[Adaptive Bitrate Streaming]()
+[Adaptive Bitrate Streaming](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Adaptive-Bitrate-Streaming.md)
 
 [Video Conference vs Live Streaming]()
 
