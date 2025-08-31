@@ -119,7 +119,3 @@ No matter where you are, you’ll get a fast response from the nearest instance.
 - Improving **speed, reliability, and resilience**.
 
 It’s the backbone of **modern public DNS services** and critical internet infrastructure.
-
----
-
-Let me know if you'd like a Python simulation of Anycast behavior or guidance on setting up an anycast-like test environment!

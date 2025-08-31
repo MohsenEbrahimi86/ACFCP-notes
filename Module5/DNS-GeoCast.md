@@ -131,5 +131,3 @@ Unlike **Multicast DNS (mDNS)**, which is a real protocol (RFC 6762), **"GeoCast
 ### 📝 Bottom Line
 
 There is **no official "DNS GeoCast" protocol**, but the concept refers to **geolocation-aware DNS responses** — a powerful tool used by global services to optimize delivery. It’s a key part of modern **CDNs, cloud platforms, and global applications**.
-
-Let me know if you'd like to set up a simple GeoDNS-like system using Python or open-source tools!

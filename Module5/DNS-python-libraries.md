@@ -164,5 +164,3 @@ for answer in response['Answer']:
 - For low-level packet control: **`scapy`**
 - For simple lookups: **`socket`**
 - For DNS over HTTPS: **`requests` + DoH API**
-
-Let me know if you'd like examples for specific DNS record types or advanced use cases!

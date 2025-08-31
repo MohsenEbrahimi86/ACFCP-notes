@@ -144,7 +144,3 @@ zeroconf.register_service(info)
 **Multicast DNS (mDNS)** is a zero-configuration networking protocol that allows devices on a local network to resolve names like `device.local` without a DNS server. It’s widely used in consumer devices, Apple ecosystems (Bonjour), and IoT.
 
 It’s **not a replacement for DNS**, but a **complement** for local discovery.
-
----
-
-Let me know if you'd like to build a simple mDNS browser or service in Python!
