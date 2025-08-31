@@ -1,6 +1,8 @@
+# Edge Services
+
 Edge services globally lives in the entrance of the organization network like CANs.
 
-### Edge Services
+Edge Services can be:
 
 #### - [DNS(**D**omain **N**ame **S**ystem)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS.md)
 
