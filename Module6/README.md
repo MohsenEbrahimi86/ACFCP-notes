@@ -2,7 +2,7 @@
 
 Type of Networks:
 
-- [WAN(Wide Area Network)]()
+- [WAN(Wide Area Network)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/LAN.md)
 - [LAN(Local Area Network)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/LAN.md)
 - [PAN(Personal Area Network)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/PAN.md)
 - [CAN(Campus Area Network)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/CAN.md)
