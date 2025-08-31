@@ -70,7 +70,7 @@ Load Balancing DNS Serving requests with:
 
 [Forward Proxy](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Forward-Proxy.md)
 
-Can be content firewal
+Can be content firewall
 
 Can be content switch
 
