@@ -56,6 +56,6 @@ Load Balancing DNS Serving requests with:
 
 GeoCast
 
-MultiCast
+[MultiCast](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-Multicast.md) or mDNS
 
 AnyCast
