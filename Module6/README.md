@@ -14,3 +14,31 @@ Elements of Network:
 - Active Elements(Can decide on something or program to decide something)
 
 [Network Interface Card](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/NIC.md)
+
+OSI model vs TCP/IP stack protocol
+
+Under transport layer is all about network.
+Over transport layer is all about application.
+
+### OSI Layer 2 Data Link:
+
+- Collision Control
+- Physical Addressing
+
+#### Topology:
+
+- Point To Point
+- Multi Access
+
+#### Communications:
+
+- Full Duplex
+- Half Duplex
+
+### Network devices:
+
+- [Hub](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Hub.md)
+- [Switch]()
+- [Router]()
+
+### Layer 3: Network
