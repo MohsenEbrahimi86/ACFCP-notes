@@ -108,5 +108,3 @@ Common protocols:
 It's fast, efficient, and powers much of today’s digital experience — from binge-watching shows to attending virtual concerts.
 
 ---
-
-Would you like a **diagram**, a **Python example of a simple streaming server**, or to learn how **live streaming works behind the scenes** (e.g., OBS → RTMP → CDN)? I'm happy to dive deeper!

@@ -93,9 +93,11 @@ Can be content switch
 
 # Stream
 
-[Streaming] vs Downloading
+[Streaming](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/Streaming.md) vs Downloading
 
 Streaming Protocols:
 
 - [MPEG-Dash]() (Standard)
-- [HLS]
+- [HLS]()
+
+[Adaptive Bitrate Streaming]()
