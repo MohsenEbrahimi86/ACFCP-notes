@@ -54,8 +54,8 @@ Load Balancing DNS Serving requests with:
 - Round-Robin Algorithm
 - Geo-Location based Algorithm
 
-GeoCast
-
-[MultiCast](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-Multicast.md) or mDNS
+[GeoCast]()
 
 AnyCast
+
+[MultiCast](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module5/DNS-Multicast.md) or mDNS
