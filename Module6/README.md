@@ -52,3 +52,6 @@ Grouping Computers for
 
 [Static Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Static-Routing.md)
 [Dynamic Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Dynamic-Routing.md)
+
+[EGP Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/EGP-Routing.md)
+[IGP Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/IGP-Routing.md)
