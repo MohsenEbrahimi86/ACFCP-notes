@@ -51,4 +51,4 @@ Grouping Computers for
 - Hierarchical Management
 
 [Static Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Static-Routing.md)
-[Dynamic Routing](://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Dynamic-Routing.md)
+[Dynamic Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Dynamic-Routing.md)
