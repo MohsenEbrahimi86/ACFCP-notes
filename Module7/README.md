@@ -6,8 +6,8 @@
 
 [Ceph]()
 
-[DAS]()
+[DAS(**D**irect **A**ttached **S**torage)]()
 
-[NAS]()
+[NAS(**N**etwork **A**ttached **S**torage)]()
 
-[SAN]()
+[SAN(**S**torage **A**rea **N**etwork)]()
