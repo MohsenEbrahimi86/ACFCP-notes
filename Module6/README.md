@@ -60,3 +60,19 @@ Grouping Computers for
 [StatefullAddress Configuration (aka DHCPv6)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Statefull-Address-Configuration.md)
 
 [Internet Exchange Point (IXP)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/IXP.md)
+
+---
+
+### Applicatoin Layer:
+
+Ports
+
+TCP
+
+UDP
+
+DiffServe
+
+BestServe
+
+[Traffic Shaping]()
