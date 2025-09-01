@@ -58,3 +58,5 @@ Grouping Computers for
 
 [Network Address Translation(NAT)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/NAT.md)
 [StatefullAddress Configuration (aka DHCPv6)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Statefull-Address-Configuration.md)
+
+[Internet Exchange Point (IXP)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/IXP.md)
