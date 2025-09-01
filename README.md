@@ -20,4 +20,4 @@ You can find it [here](https://academy.arvancloud.ir/courses/foundational-cloud-
 
 ## Module 7: [Storage](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module7/README.md)
 
-## Module 3: Cloud Adoption
+## Module 8: Cloud Adoption
