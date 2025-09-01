@@ -55,3 +55,5 @@ Grouping Computers for
 
 [EGP Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/EGP-Routing.md)
 [IGP Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/IGP-Routing.md)
+
+[Network Address Translation(NAT)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/NAT.md)
