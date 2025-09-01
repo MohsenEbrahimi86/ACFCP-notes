@@ -49,3 +49,6 @@ Grouping Computers for
 - Improving Security
 - Acheiving Isolation Benefits
 - Hierarchical Management
+
+[Static Routing]()
+[Dynamic Routing]()
