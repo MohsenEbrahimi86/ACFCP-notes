@@ -18,6 +18,6 @@ You can find it [here](https://academy.arvancloud.ir/courses/foundational-cloud-
 
 ## Module 6: [Network](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/README.md)
 
-## Module 7: Storage
+## Module 7: [Storage](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module7/README.md)
 
 ## Module 3: Cloud Adoption
