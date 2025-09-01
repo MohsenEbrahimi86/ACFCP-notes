@@ -57,3 +57,4 @@ Grouping Computers for
 [IGP Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/IGP-Routing.md)
 
 [Network Address Translation(NAT)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/NAT.md)
+[StatefullAddress Configuration (aka DHCPv6)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Statefull-Address-Configuration.md)
