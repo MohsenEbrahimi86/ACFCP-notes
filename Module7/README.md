@@ -24,4 +24,6 @@
 
 [Swift](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module7/Swift.md)
 
+[Software-Defined Storage (SDS)](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module7/SDS.md)
+
 [Ceph](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module7/Ceph.md)
