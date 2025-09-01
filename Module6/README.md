@@ -50,5 +50,5 @@ Grouping Computers for
 - Acheiving Isolation Benefits
 - Hierarchical Management
 
-[Static Routing]()
-[Dynamic Routing]()
+[Static Routing](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Static-Routing.md)
+[Dynamic Routing](://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module6/Dynamic-Routing.md)
