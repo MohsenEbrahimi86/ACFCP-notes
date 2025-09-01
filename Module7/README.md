@@ -2,9 +2,9 @@
 
 [Cinder](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module7/Cinder.md)
 
-[Swift]()
+[Swift](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module7/Swift.md)
 
-[Ceph]()
+[Ceph](https://github.com/MohsenEbrahimi86/ACFCP-notes/blob/main/Module7/Ceph.md)
 
 [DAS(**D**irect **A**ttached **S**torage)]()
 
